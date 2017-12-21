@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JD</string>
+    <!--  我的页面-->
+    <string name="name">用户</string>
+    <string name="my_login">登陆/注册></string>
+    <string name="user_all_order">全部订单</string>
+    <string name="user_order_wait_pay">未付款</string>
+    <string name="user_order_wait_drive">待发货</string>
+    <string name="user_order_wait_receipt">待收货</string>
+    <string name="user_order_wait_comment">待评价</string>
+    <string name="user_order_wait_refund">退款/货</string>
+
+    <string name="user_property">必备工具</string>
+    <string name="user_property_money">预存款</string>
+    <string name="user_property_card">充值卡</string>
+    <string name="user_property_vouchers">代金券</string>
+    <string name="user_property_red">红包</string>
+    <string name="user_property_integral">积分</string>
+
+    <string name="user_address">收货地址</string>
+    <string name="user_setting">系统设置</string>
+</resources>

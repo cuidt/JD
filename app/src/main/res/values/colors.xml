@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pwd">#666666</color>
+    <color name="main">#FF5001</color>
+    <color name="greySub">#CCCCCC</color>
+    <color name="navigation_time">#CD0A1A</color>
+    <color name="textview_color_black">#000</color>
+    <color name="textview_color_gray">#848484</color>
+    <color name="view_color">#BABABA</color>
+    <color name="login_my">#fff</color>
+    <color name="login_button">#E81010</color>
+    <color name="item_color">#99ff99</color>
+    <color name="items_color">#99ff</color>
+    <color name="car">#F23030</color>
+    <color name="scan_corner_color">#0effc2</color>
+
+    <color name="view">#F0F2F5</color>
+    <color name="item_colors">#EDECEC</color>
+    <color name="color_user_head">#DD3000</color>
+    <color name="color_user_middle">#C02A00</color>
+    <color name="color_user_collection">#ffffff</color>
+    <color name="color_user_order">#000000</color>
+    <color name="color_user_background">#FAFAFA</color>
+
+
+    <color name="register_title_bg">#FF5001</color>
+    <color name="login_register_btn">#FAFAFA</color>
+</resources>
